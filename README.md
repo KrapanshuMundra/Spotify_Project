@@ -25,4 +25,4 @@ A professional-grade backend orchestration system for audio streaming platforms 
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/KrapanshuMundra/Spotify_Project.git](https://github.com/KrapanshuMundra/Spotify_Project.git)
+git clone https://github.com/KrapanshuMundra/Spotify_Project.git
