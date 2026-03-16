@@ -15,13 +15,14 @@ A professional-grade backend orchestration system for audio streaming platforms 
 * **Security:** JWT, Bcrypt, Dotenv, Multer
 
 ## 📂 Project Structure
-* `models/` : Schemas for Users, Music Tracks, and Albums.
-* `controllers/` : Business logic for media orchestration and authentication.
-* `middlewares/` : Authentication guards and role-based validation.
-* `routes/` : API endpoint definitions.
+* `src/models/` : Schemas for Users, Music Tracks, and Albums.
+* `src/controllers/` : Business logic for media orchestration and authentication.
+* `src/middlewares/` : Authentication guards and role-based validation.
+* `src/routes/` : API endpoint definitions.
+* `src/services/` : External storage and utility integrations.
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/KrapanshuMundra/Spotify_Project.git
+git clone [https://github.com/KrapanshuMundra/Spotify_Project.git](https://github.com/KrapanshuMundra/Spotify_Project.git)
